@@ -12,7 +12,7 @@
     <script type="text/javascript" src="${webRoot}/js/jQuery-core/jquery-1.6.1.min.js?cdntime=${cdntime}"></script>
     <script type="text/javascript">
         $(function () {
-            alert("测试静态资源加载-gogogoggo");
+            alert("测试静态资源加载");
         });
     </script>
 </head>
